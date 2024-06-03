@@ -1,4 +1,4 @@
-module github.com/dewzzjr/port-forward
+module github.com/dewzzjr/network-example
 
 go 1.21.0
 
