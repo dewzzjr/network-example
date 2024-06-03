@@ -1,3 +1,5 @@
+github.com/stefanwichmann/lanscan v0.0.0-20190324154315-2a77f896f93a h1:euRDD9Q8H1dItIr67JeUlPNJjTpXNqAuR7i3ujA2ELI=
+github.com/stefanwichmann/lanscan v0.0.0-20190324154315-2a77f896f93a/go.mod h1:O59XMDOTv29FsoW1Rnm/nj3W0hZyJOMaHR/bQvCOBjs=
 golang.org/x/crypto v0.22.0 h1:g1v0xeRhjcugydODzvb3mEM9SQ0HGp9s/nh3COQ/C30=
 golang.org/x/crypto v0.22.0/go.mod h1:vr6Su+7cTlO45qkww3VDJlzDn0ctJvRgYbC2NvXHt+M=
 golang.org/x/sys v0.19.0 h1:q5f1RH2jigJ1MoAWp2KTp3gm5zAGFUTarQZ5U386+4o=
